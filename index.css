@@ -1,0 +1,71 @@
+* {
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+body {
+  background-color: rgba(194, 191, 191, 0.521);
+}
+
+.sayHi img {
+  height: 150px;
+  width: auto;
+  border-radius: 10%;
+}
+
+nav {
+  display: flex;
+}
+
+.imgHi {
+  margin-top: 50px;
+  margin-left: 40px;
+}
+
+.divHi {
+  padding: 0px 10px 0px 10px;
+  color:rgb(75, 62, 47);
+  background-color: darkgrey;
+  text-align: right;
+  word-spacing: 5px;
+  margin-top: 50px;
+  margin-left: 10px;
+  height: 150px;
+  border: 1px solid rgb(103, 103, 136);
+  border-radius: 10px;
+}
+
+.divHi div {
+
+  margin-top: 15px;
+}
+
+article {
+  text-align: justify;
+  margin: auto;
+  width: 500px;
+}
+
+footer {
+  text-align: center;
+  font-size: small;
+  font-style: oblique;
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+.vkLogo img{
+  width: 50px;
+  border-radius: 20%;
+  
+  margin-left: 45px;
+}
+
+.githubLogo img{
+  width: 100px;
+  margin-left: 20px;
+}
+
+.links{
+  width: 200px;
+  
+}
+
