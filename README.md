@@ -1,21 +1,17 @@
 ### Привет, меня зовут Павел! И это мой Гит! 👋
 
 Я люблю создавать своими руками, а так же разрабатывать приложения на JavaScript!
-
-Мой стек:
+<hr/>
+Связаться со мной можно через:
+gmail: 
+telegram: https://t.me/pavel_trader
+<b>Мой стек:</b>
 JavaScript React Redux Node.js SQL PostgreSQL Git Visual Studio Code CSS3 Sass HTML5
-
-Фронтенд: JS, TypeScript, React, Hooks API, Redux (Saga, Thunk, Toolkit), HTML5, CSS3, Sass
-Бекенд: Node.js, Express, Sessions/Tokens, CORS, WebSockets, hbs
-Базы данных: PostgreSQL, Sequelize ORM
-A также: Jest, Docker, REST
-
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+<hr/>
+<b>Фронтенд:</b> JS, TypeScript, React, Hooks API, Redux (Saga, Thunk, Toolkit), HTML5, CSS3, Sass
+<br/>
+<b>Бекенд:</b> Node.js, Express, Sessions/Tokens, CORS, WebSockets
+<br/>
+<b>Базы данных:</b> PostgreSQL, Sequelize ORM
+<br/>
+<b>A также:</b> Jest, REST
