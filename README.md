@@ -1,8 +1,15 @@
-### Привет! Это мой Гит! 👋
+### Привет, меня зовут Павел! И это мой Гит! 👋
 
+Я люблю создавать своими руками, а так же разрабатывать приложения на JavaScript!
 
 Мой стек:
-REST
+JavaScript React Redux Node.js SQL PostgreSQL Git Visual Studio Code CSS3 Sass HTML5
+
+Фронтенд: JS, TypeScript, React, Hooks API, Redux (Saga, Thunk, Toolkit), HTML5, CSS3, Sass
+Бекенд: Node.js, Express, Sessions/Tokens, CORS, WebSockets, hbs
+Базы данных: PostgreSQL, Sequelize ORM
+A также: Jest, Docker, REST
+
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
