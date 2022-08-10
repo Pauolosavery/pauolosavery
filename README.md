@@ -3,7 +3,7 @@
 Я люблю создавать своими руками, а так же разрабатывать приложения на JavaScript!
 <hr/>
 Связаться со мной можно через:
-gmail: 
+gmail: pavel.plekhanov.job@gmail.com
 telegram: https://t.me/pavel_trader
 <b>Мой стек:</b>
 JavaScript React Redux Node.js SQL PostgreSQL Git Visual Studio Code CSS3 Sass HTML5
