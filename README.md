@@ -1,7 +1,7 @@
 <h1 align="center">Привет! Это Павел! А это мой Github!</h1>
 <h3 align="center">Я frontend разработчик, но понимаю и в backend.</h3>
 
-- 📫 <a href="https://pauolosavery.ru" target="blank">**pauolosavery.ru**</a>
+- 📫 <a href="https://pauolosavery.github.io/portfolio/" target="blank">*Визитка**</a>
 
 - 📨 [https://t.me/pavel_trader](https://t.me/pavel_trader)
 
