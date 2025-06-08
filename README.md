@@ -2,11 +2,11 @@
 <h3 align="center">Я Frontend-React разработчик</h3>
 <hr/>
 <h4 align="center">
-  <a href="[https://pauolosavery.github.io/portfolio/](https://pauolosavery.github.io/plekhanov.pavel/)" target="blank">Мой сайт визитка</a>
+  <a href="https://pauolosavery.github.io/plekhanov.pavel/" target="blank">Мой сайт визитка</a>
 </h4>
 
 <h4 align="center"> 
-  <a href="[https://t.me/pavel_trader](https://t.me/pavel_programmist)" target="blank">Мой телеграм</a>
+  <a href="https://t.me/pavel_programmist" target="blank">Мой телеграм</a>
 </h4> 
 
 <h4 align="center"> 
