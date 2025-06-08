@@ -1,31 +1,38 @@
 <h1 align="center">Привет! Это Павел! А это мой Github!</h1>
 <h3 align="center">Я Frontend-React разработчик</h3>
 <hr/>
+
 <h4 align="center">
-  <a href="https://pauolosavery.github.io/plekhanov.pavel/" target="blank">Мой сайт визитка</a>
+  Связаться со мной:
 </h4>
 
 <h4 align="center"> 
-  <a href="https://t.me/pavel_programmist" target="blank">Мой телеграм</a>
+      <a href="https://t.me/pavel_programmist" target="blank">
+      <img align="center" src="https://cdn-icons-png.flaticon.com/512/5968/5968804.png"     alt="pavel_programmist" height="30" />
+    </a>
 </h4> 
 
 <h4 align="center"> 
-  <a <a href="mailto:pavel.plekhanov.job@gmail.com" target="blank">Мой email</a>
+      <a href="mailto:pavel.plekhanov.job@gmail.com" target="blank">
+      <img align="center" src="https://ssl.gstatic.com/ui/v1/icons/mail/rfr/logo_gmail_lockup_default_2x_r5.png"     alt="pavel.plekhanov.job@gmail.com" height="30" />
+    </a>
 </h4> 
+
+<h4 align="center"> 
+      <a href="https://tenchat.ru/pavel_plekhanov" target="blank" >
+      <img align="center" src="https://cdn2.tenchat.ru/images/icons/logo.svg?fmt=webp"     alt="pavel_plekhanov" height="30" />
+    </a>
+</h4> 
+
 <hr/>
 
-<h3 align="left">Соц.сети</h3>
-  <p align="center" >
-    <a href="https://tenchat.ru/pavel_plekhanov" target="blank" >
-      <img align="center" src="https://cdn2.tenchat.ru/images/icons/logo-tight.svg?width=104&height=24&fmt=webp"     alt="pavelplekhanov" height="30" />
-    </a>
-    <span>&nbsp; &nbsp; &nbsp; </span>
-    <a href="https://tenchat.ru/pavel_plekhanov" target="blank" >
-      <img align="center" src="https://cdn2.tenchat.ru/images/icons/logo-tight.svg?width=104&height=24&fmt=webp"     alt="pavelplekhanov" height="30" />
-    </a>
-  </p>
-  
-  <hr/>
+<h4 align="center">
+  Пример работы
+</h4>
+<h4 align="center">
+  <a href="https://pauolosavery.github.io/plekhanov.pavel/" target="blank">Мой сайт визитка</a>
+</h4>
+<hr/>
   
 <h3 align="left">Тех.стек</h3>
 
